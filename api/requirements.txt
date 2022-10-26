@@ -1,5 +1,5 @@
 requests==2.25.1
-urllib3==1.26.5
+urllib3==1.26.12
 fastapi~=0.75.0
 uvicorn==0.17.6
 python-multipart==0.0.5
